@@ -4,7 +4,7 @@ import plotly.graph_objects as go
 import streamlit as st
 
 # 1. Leer los datos del archivo CSV
-car_data = pd.read_csv('~/Documents/project_TT_S7/vehicles_us.csv')
+car_data = pd.read_csv('vehicles_us.csv')
 columnas = car_data.columns.tolist()
 
 # Encabezado principal
