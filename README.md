@@ -6,7 +6,7 @@
 
 La aplicación se encuentra desplegada y funcionando en Render. Puedes acceder a la versión en vivo a través del siguiente enlace:
 
-🔗 **[Abre la aplicación web aquí](https://tu-nombre-de-app.onrender.com)**
+🔗 **[Abre la aplicación web aquí](https://project-tt-s7.onrender.com)**
 
 ## ✨ Características Principales
 
