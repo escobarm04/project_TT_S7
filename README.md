@@ -2,6 +2,12 @@
 
 ¡Bienvenido al proyecto de análisis de mercado de vehículos usados! Esta aplicación web interactiva está construida con Python y Streamlit, diseñada para explorar, visualizar y entender la distribución y relación de las características de coches en venta en Estados Unidos.
 
+## 🚀 Despliegue de la Aplicación
+
+La aplicación se encuentra desplegada y funcionando en Render. Puedes acceder a la versión en vivo a través del siguiente enlace:
+
+🔗 **[Abre la aplicación web aquí](https://tu-nombre-de-app.onrender.com)**
+
 ## ✨ Características Principales
 
 *   **Exploración de Datos Crudos:** Tabla interactiva para inspeccionar los registros de la base de datos directamente en el navegador.
